@@ -2,7 +2,7 @@
 
 This project was created as a homework at Plovdiv University.
 
-Backend is implemented with pure PHP; Frontend is implemented with Bootstrap; Database is implemented with MySQL
+Backend is implemented with pure PHP; Database is implemented with MySQL
 
 
 In application there's authorising opportunity, and CRUD of table
