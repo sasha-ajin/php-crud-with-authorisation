@@ -18,7 +18,7 @@ git clone git@github.com:sasha-ajin/php-crud-with-authorisation.git
 
 ### Connect MySQL
 
-In connect_db.php change server, userid, password and db name of the database you want to connect
+In *connect_db.php* change server, userid, password and db name of the database you want to connect
 
 ```
 ...
