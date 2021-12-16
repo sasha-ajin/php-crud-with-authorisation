@@ -18,6 +18,18 @@ git clone git@github.com:sasha-ajin/php-crud-with-authorisation.git
 
 ### Connect MySQL
 
+Create database with this structure
+
+```
+.
+├── ...
+├── test                    # Test files (alternatively `spec` or `tests`)
+│   ├── benchmarks          # Load and stress tests
+│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
+│   └── unit                # Unit tests
+└── ...
+```
+
 In **connect_db.php** change server, userid, password and db name of the database you want to connect
 
 ```
